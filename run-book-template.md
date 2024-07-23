@@ -228,7 +228,7 @@ _(e.g. Use `/health` HTTP endpoint for internal components that expose it. Other
 
 #### Health of service
 
-_(e.g. Provide `/health` HTTP endpoint: 200 --> basic health, 500 --> bad configuration + `/health/deps` for checking dependencies)_
+_/health give 200 - 300 range as an Ok.  If 500+ the service cannot be reached
 
 ## Operational tasks
 
