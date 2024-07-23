@@ -9,13 +9,13 @@ Licenced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) !
 
 ## Service or system overview
 
-**Service or system name:** 
+**Service or system name: This is for the website service** 
 
 ### Business overview
 
 > What business need is met by this service or system? What expectations do we have about availability and performance?
 
-_(e.g. Provides reliable automated reconciliation of logistics transactions from the previous 24 hours)_
+To move the current domain from .com to .co.uk
 
 ### Technical overview
 
